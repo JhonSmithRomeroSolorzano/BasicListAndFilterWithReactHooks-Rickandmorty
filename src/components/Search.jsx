@@ -1,4 +1,4 @@
-import React, {useState, useEffect, useReducer, useMemo, useRef, useCallback} from "react";
+import React from "react";
 
 const Search = ({search, searchInput, handleSearch}) =>{
   
